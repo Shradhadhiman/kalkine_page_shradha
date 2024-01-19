@@ -1,0 +1,12 @@
+<svg id="Group_314" data-name="Group 314" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_109" data-name="Rectangle 109" style="fill:none" d="M0 0h24v24H0z"/>
+    <g id="Icon_feather-mail" data-name="Icon feather-mail" transform="translate(2 5)">
+        <path id="Path_228" data-name="Path 228" class="cls-2" d="M5 6h16a1.893 1.893 0 0 1 2 1.75v10.5A1.893 1.893 0 0 1 21 20H5a1.893 1.893 0 0 1-2-1.75V7.75A1.893 1.893 0 0 1 5 6z" transform="translate(-3 -6)"/>
+        <path id="Path_229" data-name="Path 229" class="cls-2" d="m23 9-10 6.125L3 9" transform="translate(-3 -7.25)"/>
+    </g>
+</svg>

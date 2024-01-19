@@ -1,0 +1,132 @@
+.kalhomescontainers_titles {
+    margin-top: 30px;
+    margin-bottom: 0.5rem;
+}
+.kalhomescontainers_titles h2 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.16;
+    text-align: center;
+    color: #0e5dd6;
+}
+.kalhomescontainers_titles p {
+    font-size: 16px;
+    font-weight: 500;
+    /* font-stretch: normal; */
+    font-style: normal;
+    line-height: 1.38;
+    /* letter-spacing: normal; */
+    max-width: 800px;
+    text-align: center;
+    color: #212529;
+    margin: 0 auto 30px;
+}
+.Kalhomes_image img {
+    width: 100%;
+}
+.kalkine_groups {
+    width: 95%;
+}
+.kalkine_groups a {
+    margin: 20px 0 10px;
+    padding: 30px;
+    width: 100%;
+    background-color: rgb(27 29 59);
+    z-index: 9;
+    position: relative;
+    min-height: 150px;
+    top: 0; 
+    float: left;
+    text-decoration: none;
+}
+.kalkine_groups :hover{
+    transition: top ease-out .5s;
+}
+
+.kalkine_groups h2 {
+    font-size: 17px;
+    font-weight: 700;
+    position: relative;
+    line-height: 1.38;
+    text-align: left;
+    color: #f26936;
+    margin-bottom: 0;
+}
+.kalkine_groups p {
+    font-size: 21px;
+    line-height: 1.38;
+    text-align: left;
+    color: #fff;
+    margin-bottom: 0;
+    text-align: left;
+}   
+.medias_timestamps span {
+    color: #f26936;
+    max-width: 2px;
+    font-weight: 500;
+    color: #999;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.43;
+    text-align: left;
+    margin: 4px 0px 0px 70px;
+}
+/* .kalkine_groups a {
+    position: absolute;
+    bottom: 5px;
+    right: 20px;
+    color: #f26936;
+    font-size: 20px;
+} */
+
+.icon{
+float: right;
+position: absolute;
+}
+.kalkine_groups a::after {
+    /* content: ''; */
+    /* position: absolute; */
+    top: 100%;
+    left: -220px;
+    right: 0;
+    margin: 0 auto;
+    width: 0;
+    height: 0;
+    border-top: solid 15px rgb(27 29 59);
+    border-left: solid 25px transparent;
+    border-right: solid 0 transparent;
+}
+/* .kalkine_groups a::before { */
+    /* content: "\f178"; */
+    /* position: absolute; */
+    /* bottom: 5px;
+    right: 20px;
+    font-family: var(--fa-style-family,"Font react/Awesome 6 Free");
+    color: #f26936;
+    font-size: 20px; */
+span.coverage_provider {
+    color: #f26936;
+}
+.kalkine_anchorlink {
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin: 50px 0px;
+}
+.kalkine_anchorlink a {
+    background-color: #0021a4;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 50px;
+    padding: 14px 30px;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: #0021a4;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 50px;
+    padding: 14px 30px;
+    font-size: 18px;
+    text-decoration: none;
+    text-align: center;
+}

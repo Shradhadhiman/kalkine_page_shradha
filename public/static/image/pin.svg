@@ -1,0 +1,12 @@
+<svg id="Group_317" data-name="Group 317" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_108" data-name="Rectangle 108" style="fill:none" d="M0 0h24v24H0z"/>
+    <g id="Icon_feather-map-pin" data-name="Icon feather-map-pin" transform="translate(5 3)">
+        <path id="Path_226" data-name="Path 226" class="cls-2" d="M19.227 8.864c0 5.727-7.364 10.636-7.364 10.636S4.5 14.591 4.5 8.864a7.364 7.364 0 1 1 14.727 0z" transform="translate(-4.5 -1.5)"/>
+        <path id="Path_227" data-name="Path 227" class="cls-2" d="M18.136 12.818a2.318 2.318 0 1 1-2.318-2.318 2.318 2.318 0 0 1 2.318 2.318z" transform="translate(-8.455 -5.489)"/>
+    </g>
+</svg>

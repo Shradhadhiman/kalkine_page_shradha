@@ -1,0 +1,100 @@
+
+.color_Subscription {
+    background-color: #0a1ca6!important;
+    padding: 20px 0 !important;
+    text-align: center;
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+.kalhome_subscriptionbox {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 0px;
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 8px;
+    float: left;
+    width: 19rem;
+    /* text-align: center; */
+}
+.kalhome_subscriptionbox h2 {
+    /* line-height: 1.03px; */
+    color: #001464;
+    font-weight: 700;
+    font-size: 25px;
+    min-height: 83px;
+    margin-top: 20px;
+    text-align: center;
+}
+.kalhome_subscriptionbox h4 {
+    line-height: 1.2rem;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+}
+.kalhome_subscriptionbox p {
+    font-size: 13px;
+    font-weight: 700;
+}
+   
+.header_dolar{
+    text-align: center;
+}
+.header_dolar h4{
+    text-align: center !important;
+    font-size: 35px;
+    /* line-height: 1.2; */
+    font-weight: 700;
+    font-size: 35px !important;
+}
+.dealsubscribe_button {
+    position: absolute;
+    left: 0px;
+     width: 100%;
+    text-align: center;
+    bottom: -23px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+}
+a.sublist_anchorlink {
+    outline: none;
+    border: 0;
+    background-color: #001464;
+    color: #fff;
+    font-weight: 400;
+    border-radius: 50px;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.subscription_listitems ul {
+    padding-left: 0px;
+    list-style: none;
+    max-height: 175px;
+    overflow-y: auto;
+}
+.subscription_listitems {
+    /* width: 11rem; */
+    position: relative;
+    margin-top: 25px;
+    padding: 25px 10px;
+    border: 1px solid #001464;
+    border-radius: 8px;
+    background: 0 0;
+    height: 232px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+ul.list_trail li {
+    white-space: nowrap;
+    list-style: none;
+    font-size: 17px;
+}
+.check{
+    background-color: #00b80c;
+    border-radius: 28px;
+    color: white;
+    width: 20px;
+    height: 20px;
+}

@@ -1,0 +1,95 @@
+.homeportfolio_titlediv h3 {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.2;
+    text-align: center;
+    color: #fff;
+}
+.homeportfolio_titlediv h2 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.16;
+    color: #fff;
+    text-align: center;
+}
+.homeportfolio_titlediv p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.38;
+    letter-spacing: normal;
+    max-width: 800px;
+    text-align: center;
+    color: #fff;
+    margin: 0 auto 40px;
+}
+
+.image_backgroung{
+    background-image: url(/static/image/boxbackground.svg);
+    /* background-color: #efefef; */
+    padding: 110px 0px 20px;
+    background-size: cover;
+}
+
+ul.stockportfolio_industrylist {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding-left: 0px;
+    list-style: none;
+    align-content: flex-end;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: row;
+}
+ul.stockportfolio_industrylist img {
+    max-width: 30px;
+    height: 30px;
+    margin-right: 1px;
+}
+
+ul.stockportfolio_industrylist li a {
+    font-weight: 700;
+    text-decoration: none;
+    padding: 10px 0px;
+    color: #0d6efd;
+    /* font-size: 15px; */
+}
+ul.stockportfolio_industrylist li {
+    min-height: auto;
+    transition: all .3s ease 0s;
+    display: inline-block;
+    padding: 8px 10px;
+    border-radius: 120px;
+    background-color: #fff;
+    margin: 6px 4px 20px;
+}
+
+
+ul.stockportfolio_industrylist {
+    padding: 0px 12vw;
+    /* padding-left: 17px; */
+    /* display: inline-block; */
+    width: 100%;
+    /* display: inline; */
+    /* margin-left: 30px; */
+    text-align: center;
+    /* float: inline-end; */
+    float: left;
+    /* margin-right: 30px; */
+}
+
+ul.potfoliohomes_points {
+    color: white;
+    display: flex;
+    margin-top: 40px;
+}
+ul.potfoliohomes_points li {
+    border-left: 6px solid #fff;
+    padding-left: 20px;
+    font-size: 16px;
+    color: #fff;
+    padding-right: 15px;
+}
+.potfoliohomes_points{
+    list-style: none;
+}

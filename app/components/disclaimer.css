@@ -1,0 +1,48 @@
+.footers_disclaimers {
+    color: #eee;
+    float: left;
+    width: 100%;
+    background-color: #1b1d3b;
+    padding: 30px 0px;
+}
+ul.termslink_ullis {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding-left: 0px;
+    font-size: 17px;
+}
+ul.termslink_ullis a {
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+ul.termslink_ullis li {
+    float: none;
+    display: inline-block;
+    padding-right: 10px;
+    margin-right: 6px;
+    /* border-right: 1px solid #707070; */
+    margin-bottom: 5px;
+}
+
+.kalfotters_disclaimers {
+    float: left;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 45px;
+}
+.kalfotters_disclaimers p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.kalfotters_disclaimers a {
+    color: #fff;
+    padding-bottom: 2px;
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
